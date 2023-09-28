@@ -1,0 +1,19 @@
+body{background-color: rgb(19, 14, 14); }
+
+.YouTube-button{     font-size: small;  
+                    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                    border-radius: 5px;  
+                    border: solid; 
+                    border-color: rgb(255, 253, 253);
+                    background-color: rgb(168, 12, 20); 
+                    border-style: groove;color: rgb(252, 249, 249); 
+        
+                }
+.Facebook-button {  background-color: rgb(9, 9, 167);  
+                    color: blanchedalmond; 
+                    border: none; 
+                    border-radius: 4px; 
+                    cursor: pointer;
+
+
+                 }
