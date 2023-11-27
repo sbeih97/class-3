@@ -2,6 +2,21 @@ body {
     background-color: #d3d3d3
 }
 
+header {
+    padding: 10px;
+    text-align: center;
+    height: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.logo {
+    text-decoration: none;
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+}
+
 .YouTube-button {
     font-size: small;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
